@@ -1,0 +1,16 @@
+PHP LEARNING PROCESS
+fundamentals:
+PHP syntax
+PHP comments
+PHP variables
+PHP echo
+PHP data types 
+PHP strings 
+PHP numbers
+PHP MAth
+PHP constants
+PHP operators 
+PHP if/else/elseif 
+PHP switch
+PHP loop
+PHP functions
